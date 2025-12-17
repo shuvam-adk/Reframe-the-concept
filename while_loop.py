@@ -1,5 +1,22 @@
 ###....Using a While Loop.......
 
+#..Python Loops
+#..Python has two primitive loop commands:
+
+#...while loops
+#...for loops
+
+##..
+i=0
+while i<3:
+    print(i)
+    i=1=i+1
+
+
+    
+
+
+
 ##..
 name=["shu","vam","raj"]
 i=0
@@ -160,6 +177,7 @@ while i<11:
 while i<11:
     print(3*i)
     i=i+1
+
 
 
 
